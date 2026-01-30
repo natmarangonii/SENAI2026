@@ -1,0 +1,24 @@
+**//Clonar/Copiar Repositório WEB**
+
+git clone https://github.com/natmarangonii/SENAI2026.git
+
+
+
+**//Atualizar Repositório WEB** 
+
+git add . *//verifica arquivos alterados*
+
+git commit -m "algum comentario"  *//verifica as alterações nos arquivos*
+
+git push *//envia as alterações para nuvem*
+
+
+
+
+
+//Atualizar Repositório Local
+
+git pull
+
+
+
